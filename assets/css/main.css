@@ -2739,6 +2739,7 @@
 			#header .logo strong {
 				color: #ffffff;
 				font-weight: 600;
+				color: var(--logo-fresh);
 			}
 
 		#header a {
@@ -3157,3 +3158,7 @@
 			}
 
 		}
+.logo {
+
+	--logo-fresh: green;
+}
