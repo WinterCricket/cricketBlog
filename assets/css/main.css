@@ -3166,3 +3166,7 @@
 a {
 	opacity: 0.3;
 }
+p {
+	line-height: 20px;
+	font-weight: 400;
+}
